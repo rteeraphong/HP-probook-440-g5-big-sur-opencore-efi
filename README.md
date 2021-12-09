@@ -15,7 +15,6 @@ Post-install (mac)
 
 Not working
 - finger scan
-- right usb port
 - card reader
 
 credits :
