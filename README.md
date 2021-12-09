@@ -20,5 +20,5 @@ Not working
 
 credits :
 - https://dortania.github.io
-- https://github.com/Flashminat0
+- https://github.com/Flashminat0/hp-probook-450-g5-big-sur-opencore-efi-files
 
