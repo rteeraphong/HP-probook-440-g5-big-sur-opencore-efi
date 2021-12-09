@@ -6,7 +6,7 @@ Required tools
 Pre-install (windows)
 - Explorer ++
 - SMBios
-- Plist
+- ProperTree
 
 Post-install (mac)
 - EFI Mounter
@@ -21,3 +21,4 @@ Not working
 credits :
 - https://dortania.github.io
 - https://github.com/Flashminat0
+
